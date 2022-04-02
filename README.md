@@ -1,3 +1,3 @@
 # Resume
 
-Curriculum Vitae
+Curriculum Vitae for Quick Access
